@@ -33,10 +33,11 @@ public class menu {
 
                 break;
             case 4:
-
+                clasificar_nivel_jugador.puntos();
 
                 break;
             case 5:
+
                 break;
             default:
                 System.out.println("el numero que ingreso no esta en el menu");
