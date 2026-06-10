@@ -37,6 +37,7 @@ public class menu {
 
                 break;
             case 5:
+                System.out.println("\nCerrando sesión del juego... ¡Gracias por jugar!");
 
                 break;
             default:
