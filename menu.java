@@ -37,6 +37,7 @@ public class menu {
 
                 break;
             case 5:
+                System.out.println("\nCerrando sesión del juego... ¡Gracias por jugar!");
 
                 break;
             default:
@@ -44,7 +45,7 @@ public class menu {
 
         }
 
-    } while(opcion !=5);
+    } while(opcion != 5);
 }
 
 public static double pedirNumero(Scanner teclado, String mensaje) {
