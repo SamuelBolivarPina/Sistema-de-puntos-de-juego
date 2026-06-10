@@ -14,7 +14,7 @@ public class clasificar_nivel_jugador {
         else if (puntaje < 150){
             System.out.println("nivel avazado 😉🎉");
         }else {
-            System.out.println("nivel experto 😎🎉");
+            System.out.println("nivel experto 😎🎉✨");
         }
 
     }
