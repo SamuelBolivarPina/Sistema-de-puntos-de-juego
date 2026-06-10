@@ -22,6 +22,7 @@ public class menu {
         opcion = teclado.nextInt();
         switch (opcion) {
             case 1:
+                Sumadevictoria.main(args);
                 break;
 
             case 2:
@@ -29,7 +30,7 @@ public class menu {
 
                 break;
             case 3:
-
+                CalculadoraPenalizacion.main(args);
 
                 break;
             case 4:
@@ -37,7 +38,6 @@ public class menu {
 
                 break;
             case 5:
-                System.out.println("\nCerrando sesión del juego... ¡Gracias por jugar!");
 
                 break;
             default:
@@ -45,7 +45,7 @@ public class menu {
 
         }
 
-    } while(opcion != 5);
+    } while(opcion !=5);
 }
 
 public static double pedirNumero(Scanner teclado, String mensaje) {
