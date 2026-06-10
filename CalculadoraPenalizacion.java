@@ -41,6 +41,6 @@ public class CalculadoraPenalizacion {
         System.out.println("Penalizaciones aplicadas: " + penalizaciones + " (Total restado: " + (penalizaciones * VALOR_PENALIZACION) + " pts)");
         System.out.println("Puntaje Final: " + puntajeFinal + " pts");
         
-        scanner.close();
+        //scanner.close();
     }
 }

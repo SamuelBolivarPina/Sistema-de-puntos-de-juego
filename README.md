@@ -35,4 +35,5 @@
  ## 🤝 Evidencias del Flujo Colaborativo
 
  Este proyecto se desarrolló siguiendo la metodología ágil **Scrum** y utilizando **Git/GitHub** para el control de versiones:
- link de video conjunto
+ link de los videos conjuntos
+ 
