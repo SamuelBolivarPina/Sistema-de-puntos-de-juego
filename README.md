@@ -1,4 +1,4 @@
- # Sistema de puntos de juego
+ ñ# Sistema de puntos de juego
 
  Este proyecto implementa un módulo funcional e independiente en Java diseñado para registrar, almacenar y actualizar el puntaje de un jugador en base a sus condiciones de victoria dentro del juego.
 
@@ -23,11 +23,14 @@
 
  Para ejecutar y probar este sistema localmente, asegúrate de tener instalado el Java Development Kit (JDK) y sigue estos pasos:
 
- 1. Abre el proyecto en tu IDE preferido (como Visual Studio Code o NetBeans).
- 2. Dirígete al archivo `ControladorPuntos.java`.
- 3. Haz clic en el botón **Run** (Ejecutar) situado sobre el método principal `main`.
- 4. seleciona las opciones del 1 al 5.
- 5. Verifica los resultados impresos en la consola del sistema.
+ * 1. Abre el proyecto en tu IDE preferido (como Visual Studio Code o NetBeans).
+
+ * 2. Dirígete al archivo `ControladorPuntos.java`.
+ * 3. Haz clic en el botón **Run** (Ejecutar) situado sobre el método principal `main`.
+
+ * 4. seleciona las opciones del 1 al 5.
+ 
+ * 5. Verifica los resultados impresos en la consola del sistema.
 
  ## 🤝 Evidencias del Flujo Colaborativo
 
