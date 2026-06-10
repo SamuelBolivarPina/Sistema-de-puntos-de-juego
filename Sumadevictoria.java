@@ -1,5 +1,5 @@
 public class Sumadevictoria {
-    public static void main(String[] args) {
+    public static void ejecutar() {
         // Creao el jugador con 0 puntos
         JugadorConPuntos jugador = new JugadorConPuntos();
 
@@ -20,7 +20,7 @@ class JugadorConPuntos {
 
     // Este método suma 100 puntos cada vez que lo llamas
     public void sumarVictoria() {
-        this.puntos += 100; 
+        this.puntos += 100;
         System.out.println("[SISTEMA] ¡Ganaste! Se te han sumado 100 puntos.");
     }
 

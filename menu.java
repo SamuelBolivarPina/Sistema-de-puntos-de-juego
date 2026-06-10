@@ -22,14 +22,14 @@ public class menu {
         opcion = teclado.nextInt();
         switch (opcion) {
             case 1:
-                Sumadevictoria.main(args);
+                Sumadevictoria.ejecutar();;
                 break;
 
             case 2:
                PuntosEmpate.calcularPuntosEmpate();
                 break;
             case 3:
-                CalculadoraPenalizacion.main(args);
+                CalculadoraPenalizacion.main(teclado);
 
                 break;
             case 4:

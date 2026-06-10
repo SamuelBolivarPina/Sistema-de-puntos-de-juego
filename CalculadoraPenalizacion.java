@@ -20,8 +20,7 @@ public class CalculadoraPenalizacion {
     }
 
     // --- Método main para probar la funcionalidad de forma aislada ---
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+    public static void main(Scanner scanner) {
 
         System.out.println("=== PRUEBA DE MÓDULO: PENALIZACIONES ===");
         
@@ -40,7 +39,6 @@ public class CalculadoraPenalizacion {
         System.out.println("Puntos antes: " + puntosActuales);
         System.out.println("Penalizaciones aplicadas: " + penalizaciones + " (Total restado: " + (penalizaciones * VALOR_PENALIZACION) + " pts)");
         System.out.println("Puntaje Final: " + puntajeFinal + " pts");
-        
-        scanner.close();
+        //scanner.closer();
     }
 }
