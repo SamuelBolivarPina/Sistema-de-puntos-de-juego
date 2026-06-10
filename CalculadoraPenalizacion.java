@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CalculadoraPenalizacion {
 
     // Constante que define cuántos puntos se restan por cada penalización
-    public static final int VALOR_PENALIZACION = 2;
+    private static final int VALOR_PENALIZACION = 2;
 
     
     public static int aplicarPenalizacion(int puntosActuales, int cantidadPenalizaciones) {
