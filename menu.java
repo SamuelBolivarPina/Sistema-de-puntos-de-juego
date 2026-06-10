@@ -12,7 +12,7 @@ public class menu {
                 "3. Calcular penalización\n" +
                 "4. Clasificar nivel del jugador\n" +
                 "5. Salir\n");
-        System.out.println("Ingrese la opcion que desea:");
+        System.out.println("Ingrese la opcion que desea:");// menu
 
         while (!teclado.hasNextInt()) {
             System.out.println("Por favor, ingresa un número válido del 1 al 5:");
