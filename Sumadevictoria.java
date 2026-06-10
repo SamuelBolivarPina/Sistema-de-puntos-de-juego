@@ -1,4 +1,4 @@
-public class Partida {
+public class Sumadevictoria {
     public static void main(String[] args) {
         // Creao el jugador con 0 puntos
         JugadorConPuntos jugador = new JugadorConPuntos();
